@@ -5,6 +5,14 @@ from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
+# Personal Details and Social Media Links:
+# Author: Muhammad Jawad Ahmad
+# LinkedIn: https://www.linkedin.com/in/jawadahmadcs/
+# Instagram: https://www.instagram.com/jawadahmadcs
+# Facebook: https://www.facebook.com/JawadAhmadCS
+# GitHub: https://github.com/JawadAhmadCS
+# Blogs: https://jawadahmadcs.blogspot.com/
+
 # Step 2: Load the dataset
 ds = pd.read_csv("sample.csv")
 
