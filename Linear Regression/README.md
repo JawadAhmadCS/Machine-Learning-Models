@@ -50,8 +50,8 @@ The data is divided into:
 ## Installation and Requirements
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/JawadAhmadCS/Models.git
+cd Models/Linear\ Regression
 ```
 ### **2. Dataset**
 Ensure you have the Social_Network_Ads.csv file in the project directory. This file contains the input data required for training and testing the model.
@@ -73,4 +73,4 @@ The terminal will show precision, recall, F1-score, and accuracy.
 
 ## License
 
-> **This project is open-source and available under the MIT License. You are free to use and modify it for educational purposes.**
+> **This Model is open-source and available under the MIT License. You are free to use and modify it for educational purposes.**
