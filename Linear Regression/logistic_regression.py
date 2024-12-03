@@ -8,6 +8,16 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_score, accuracy_score
 
+
+# Personal Details and Social Media Links:
+# Author: Muhammad Jawad Ahmad
+# LinkedIn: https://www.linkedin.com/in/jawadahmadcs/
+# Instagram: https://www.instagram.com/jawadahmadcs
+# Facebook: https://www.facebook.com/JawadAhmadCS
+# GitHub: https://github.com/JawadAhmadCS
+# Blogs: https://jawadahmadcs.blogspot.com/
+
+
 # Step 2: Load the Dataset
 dataset = pd.read_csv('Social_Network_Ads.csv')  
 X = dataset.iloc[:, :-1].values  # Features
