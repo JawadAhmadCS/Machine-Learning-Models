@@ -31,7 +31,9 @@ Contributions are welcome! You can:
 
 ## 👨‍💻 Author
 **Muhammad Jawad Ahmad**  
-🌐 [LinkedIn](https://www.linkedin.com/in/jawadahmadcs/) | [GitHub](https://github.com/JawadAhmadCS) | [Blog](https://jawadahmadcs.blogspot.com/)
+🌐 <a href="https://www.linkedin.com/in/jawadahmadcs/" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/JawadAhmadCS" target="_blank">GitHub</a> | 
+<a href="https://jawadahmadcs.blogspot.com/" target="_blank">Blog</a>
 
 ## 📄 License
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
