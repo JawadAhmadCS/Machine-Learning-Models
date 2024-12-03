@@ -1,6 +1,6 @@
-# Logistic Regression: Understanding the Basics and Evaluating Performance
+# Overview
 
-This project demonstrates the implementation of a **Logistic Regression model** and evaluates its performance using various metrics. If you're new to machine learning, this guide will help you understand the process step-by-step in a clear and simple way.
+This project demonstrates the implementation of a **Logistic Regression model** and evaluates its performance using various metrics.
 
 ---
 
@@ -50,8 +50,8 @@ The data is divided into:
 ## Installation and Requirements
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/JawadAhmadCS/Models.git
-cd Models/Linear\ Regression
+git clone https://github.com/JawadAhmadCS/Machine-Learning-Models.git
+cd Machine-Learning-Models/Linear\ Regression
 ```
 ### **2. Dataset**
 Ensure you have the Social_Network_Ads.csv file in the project directory. This file contains the input data required for training and testing the model.
