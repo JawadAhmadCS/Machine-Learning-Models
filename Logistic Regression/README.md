@@ -69,6 +69,16 @@ After running the code:
 The confusion matrix will be displayed visually.
 The terminal will show precision, recall, F1-score, and accuracy.
 
+![image](https://github.com/user-attachments/assets/f07ba9f5-b3f1-4399-a891-4f3e01a78843)
+
+`Confusion Matrix:
+[[162  10]
+ [ 51  57]]
+Precision: 0.8507462686567164
+Recall: 0.5277777777777778
+F1-Score: 0.6514285714285715
+Accuracy: 0.7821428571428571`
+
 ---
 
 ## License
