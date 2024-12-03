@@ -54,7 +54,7 @@ git clone https://github.com/JawadAhmadCS/Machine-Learning-Models.git
 cd Machine-Learning-Models/Logistic\ Regression
 ```
 ### **2. Dataset**
-Ensure you have the Social_Network_Ads.csv file in the project directory. This file contains the input data required for training and testing the model.
+Ensure you have the `Social_Network_Ads.csv` file in the project directory. This file contains the input data required for training and testing the model.
 ### **3. Prepare the Environment**
 
 Ensure you have the following libraries installed:
@@ -62,7 +62,7 @@ Ensure you have the following libraries installed:
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 ### **4. Run the Code**
-Open the file logistic_regression.py in any Python IDE or editor, or use Jupyter Notebook to execute the code step by step.
+Open the file `logistic_regression.py` in any Python IDE or editor, or use Jupyter Notebook to execute the code step by step.
 
 ### **5. Output Results**
 After running the code:
