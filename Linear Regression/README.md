@@ -67,14 +67,17 @@ Open the file `Linear Regression.py` in any Python IDE or editor, or use Jupyter
 - **Predictions:** Predicted number of jobs/sec for given frequency values.
 - **Model Performance:** The Mean Squared Error (MSE) of the model.
 - **Visualization:** A scatter plot with the regression line.
-![image](https://github.com/user-attachments/assets/23155e2d-8ec6-4de2-8e01-5fcc60907f60)
 
+***Example Prediction Results:***
+```
 `Predicted No of Jobs/Sec for {3.9, 3.2, 2.7, 3.7}:
  [[176.3876652 ]
  [135.22026432]
  [105.81497797]
  [164.62555066]]
 Mean Square Error:  15.553377709639491`
+```
+![image](https://github.com/user-attachments/assets/23155e2d-8ec6-4de2-8e01-5fcc60907f60)
 
 ---
 
